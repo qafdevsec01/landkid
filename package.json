@@ -92,7 +92,7 @@
     "@atlaskit/css-reset": "^6.3.13",
     "@atlaskit/pagination": "^8.0.5",
     "@atlaskit/section-message": "^6.1.12",
-    "@atlaskit/spinner": "^15.1.11",
+    "@atlaskit/spinner": "^15.5.1",
     "@atlaskit/tooltip": "^17.6.5",
     "@types/micromatch": "^4.0.1",
     "atlassian-jwt": "^1.0.1",
