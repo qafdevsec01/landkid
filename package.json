@@ -91,7 +91,7 @@
     "@atlaskit/checkbox": "^12.3.19",
     "@atlaskit/css-reset": "^6.3.13",
     "@atlaskit/pagination": "^8.0.5",
-    "@atlaskit/section-message": "^6.1.12",
+    "@atlaskit/section-message": "^6.4.10",
     "@atlaskit/spinner": "^15.1.11",
     "@atlaskit/tooltip": "^17.6.5",
     "@types/micromatch": "^4.0.1",
