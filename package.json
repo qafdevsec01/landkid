@@ -96,7 +96,7 @@
     "@atlaskit/tooltip": "^17.6.5",
     "@types/micromatch": "^4.0.1",
     "atlassian-jwt": "^1.0.1",
-    "axios": "^0.21.4",
+    "axios": "^1.6.0",
     "body-parser": "^1.18.2",
     "connect-redis": "^5.2.0",
     "cross-env": "^5.2.0",
