@@ -103,7 +103,7 @@
     "date-fns": "^1.29.0",
     "delay": "^4.3.0",
     "emotion": "^10.0.27",
-    "express": "^4.16.2",
+    "express": "^4.20.0",
     "express-session": "^1.17.1",
     "express-winston": "^3.0.1",
     "mem": "^8",
